@@ -5,12 +5,12 @@ let button_off = document.getElementById("no-click");
 
 button_on.addEventListener("click", function(){
     // bulb.className = "size"
-    bulb.src="./images/bulb-on.png"
+    bulb.src="./images/on.jpg"
 })
 
 button_off.addEventListener("click", function(){
     // bulb.className = "size"
-    bulb.src="./images/bulb-off.png"
+    bulb.src="./images/off.jpg"
 })
 
 

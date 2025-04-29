@@ -1,3 +1,8 @@
 .size{
     width: 30% !important;
 }
+
+body{
+    /* background-color: rgb(136, 132, 132); */
+    height: 100vh;
+}
